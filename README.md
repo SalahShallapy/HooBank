@@ -8,13 +8,13 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://brainwave-sigma-seven.vercel.app/">
+  <a href="https://hoo-bank-sooty-beta.vercel.app/">
     <img src="./public/hoobank.svg" alt="Logo" height="80"  >
   </a>
   <h1 align="center">HooBank </h1>
 
   <p align="center">
-    <a href="https://brainwave-sigma-seven.vercel.app/">View Demo</a>
+    <a href="https://hoo-bank-sooty-beta.vercel.app/">View Demo</a>
     ·
     <a href="https://github.com/SalahShallapy/HooBank/issues">Report Bug</a>
   </p>
