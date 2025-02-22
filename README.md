@@ -20,7 +20,7 @@
   </p>
 </div>
 
-HooBank is a modern banking web application designed with a sleek, responsive UI built using React and Tailwind CSS. It provides a futuristic and engaging banking experience with optimized performance and seamless navigation.
+HooBank is a cutting-edge web application for modern banking, offering a sleek and responsive user interface powered by React and Tailwind CSS. It boasts a dynamic landing page, smooth navigation, and optimized performance, delivering a futuristic and immersive banking experience for users.
 
 ## Project overview
 
